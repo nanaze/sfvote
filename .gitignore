@@ -1,2 +1,5 @@
+# ignore output dir
+out/
+
 # ignore emacs
 *~

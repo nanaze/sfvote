@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 # Python 2/3 compatability
 try:
     from urllib.parse import urlparse
